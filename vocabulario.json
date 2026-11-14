@@ -1,0 +1,1319 @@
+[
+  {
+    "id": "BF-001",
+    "topic": "Beauty Filters",
+    "order": 1,
+    "term": "Skyrocket",
+    "es": "disparar",
+    "original": "It's when something raises considerably.",
+    "alternatives": [
+      "to rise very quickly",
+      "to increase dramatically",
+      "to go up suddenly and by a large amount",
+      "to rise sharply in a short time"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-002",
+    "topic": "Beauty Filters",
+    "order": 2,
+    "term": "Clock up",
+    "es": "acumular",
+    "original": "It's when you accumulate a lot of things.",
+    "alternatives": [
+      "to accumulate a large amount",
+      "to collect or achieve a total over time",
+      "to reach a total by adding things over time",
+      "to accumulate hours, miles or achievements"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-003",
+    "topic": "Beauty Filters",
+    "order": 3,
+    "term": "Pour in",
+    "es": "llover",
+    "original": "It's when a lot of people talks about you.",
+    "alternatives": [
+      "to arrive in large numbers",
+      "to come in large amounts",
+      "to come continuously and in great quantities"
+    ],
+    "concepts": "arrive, come, large numbers, many",
+    "opposites": "one person, few, slowly",
+    "errors": [
+      "It's when one person arrives."
+    ]
+  },
+  {
+    "id": "BF-004",
+    "topic": "Beauty Filters",
+    "order": 4,
+    "term": "Flawless",
+    "es": "perfecto",
+    "original": "It's something that is perfect.",
+    "alternatives": [
+      "without any mistakes or defects",
+      "completely perfect",
+      "having no mistakes or defects",
+      "completely free from imperfections"
+    ],
+    "concepts": "perfect, no mistakes, without defects",
+    "opposites": "flawed, defective, imperfect",
+    "errors": []
+  },
+  {
+    "id": "BF-005",
+    "topic": "Beauty Filters",
+    "order": 5,
+    "term": "Social media",
+    "es": "redes sociales",
+    "original": "It refers to digital platforms where people communicate and view content.",
+    "alternatives": [
+      "online platforms for sharing content and communicating",
+      "websites and apps where people interact and share posts",
+      "online networks where users share and communicate",
+      "websites and apps for sharing content with others"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-006",
+    "topic": "Beauty Filters",
+    "order": 6,
+    "term": "Attainable",
+    "es": "alcanzable",
+    "original": "It's something you can achieve.",
+    "alternatives": [
+      "possible to achieve",
+      "something that can be reached",
+      "possible to reach or accomplish",
+      "able to be achieved"
+    ],
+    "concepts": "possible, achievable, reachable",
+    "opposites": "impossible, cannot, unable",
+    "errors": [
+      "It's something impossible to achieve."
+    ]
+  },
+  {
+    "id": "BF-007",
+    "topic": "Beauty Filters",
+    "order": 7,
+    "term": "Self-esteem",
+    "es": "autoestima",
+    "original": "It's how a person sees themselves.",
+    "alternatives": [
+      "how much you value yourself",
+      "the opinion you have of yourself",
+      "the opinion and confidence you have about yourself"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-008",
+    "topic": "Beauty Filters",
+    "order": 8,
+    "term": "Hardship",
+    "es": "dificultad",
+    "original": "It's when something is difficult to do.",
+    "alternatives": [
+      "a difficult situation or experience",
+      "serious difficulty or suffering",
+      "a difficult situation that causes suffering",
+      "serious problems or difficulties in life"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-009",
+    "topic": "Beauty Filters",
+    "order": 9,
+    "term": "Deeply",
+    "es": "profundamente",
+    "original": "It's when you do something with intensity.",
+    "alternatives": [
+      "with great intensity",
+      "very strongly or profoundly",
+      "with great intensity or emotion"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-010",
+    "topic": "Beauty Filters",
+    "order": 10,
+    "term": "Struggle",
+    "es": "lucha/conflicto",
+    "original": "It's when you have a problem with someone.",
+    "alternatives": [
+      "a fight or conflict",
+      "to have difficulty with something",
+      "to have difficulty achieving something",
+      "to make a great effort against a problem"
+    ],
+    "concepts": "difficulty, effort, problem",
+    "opposites": "easy, effortless",
+    "errors": []
+  },
+  {
+    "id": "BF-011",
+    "topic": "Beauty Filters",
+    "order": 11,
+    "term": "Wound",
+    "es": "herida",
+    "original": "It refers to an injury.",
+    "alternatives": [
+      "an injury to the body",
+      "a cut or other bodily injury",
+      "damage or an injury to the body",
+      "a cut or other injury to the skin"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-012",
+    "topic": "Beauty Filters",
+    "order": 12,
+    "term": "Backgrounds",
+    "es": "fondos",
+    "original": "It's the part of the image that is behind the main object.",
+    "alternatives": [
+      "the parts behind the main subject in an image",
+      "the scenery behind the main object",
+      "the parts behind the main subject in pictures",
+      "what appears at the back of an image"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-013",
+    "topic": "Beauty Filters",
+    "order": 13,
+    "term": "Raw",
+    "es": "crudo/honesto",
+    "original": "It's someone that is honest.",
+    "alternatives": [
+      "honest and unfiltered",
+      "not processed or cooked",
+      "natural and not processed or edited",
+      "honest and showing real emotions"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-014",
+    "topic": "Beauty Filters",
+    "order": 14,
+    "term": "Swirling",
+    "es": "giro en círculos",
+    "original": "It's when you spin doing circles.",
+    "alternatives": [
+      "moving around in circles",
+      "spinning in a circular motion",
+      "turning in a circular motion"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-015",
+    "topic": "Beauty Filters",
+    "order": 15,
+    "term": "Wig",
+    "es": "peluca",
+    "original": "It's a false hair that you put on your head.",
+    "alternatives": [
+      "artificial hair worn on the head",
+      "a covering made of artificial or real hair",
+      "a covering made of fake or real hair"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-016",
+    "topic": "Beauty Filters",
+    "order": 16,
+    "term": "True self",
+    "es": "verdadero yo",
+    "original": "It's the part of you that is real.",
+    "alternatives": [
+      "who you really are",
+      "your authentic identity",
+      "who you really are inside",
+      "your real personality and identity"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-017",
+    "topic": "Beauty Filters",
+    "order": 17,
+    "term": "Media-driven",
+    "es": "controlado por los medios",
+    "original": "It's something that is controlled by TV or social media.",
+    "alternatives": [
+      "influenced or shaped by the media",
+      "driven by television or social media",
+      "strongly influenced by the media",
+      "shaped or controlled by media coverage"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-018",
+    "topic": "Beauty Filters",
+    "order": 18,
+    "term": "Purpose",
+    "es": "objetivo",
+    "original": "It's a goal or objective.",
+    "alternatives": [
+      "the reason for doing something",
+      "an aim or goal",
+      "the reason why something is done",
+      "an aim you want to achieve"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-019",
+    "topic": "Beauty Filters",
+    "order": 19,
+    "term": "Throughout",
+    "es": "a lo largo de",
+    "original": "It refers to the duration of something.",
+    "alternatives": [
+      "during the whole period",
+      "from beginning to end",
+      "during the whole period of time",
+      "in every part of a place or period"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-020",
+    "topic": "Beauty Filters",
+    "order": 20,
+    "term": "To step into",
+    "es": "adentrarse en",
+    "original": "It's to enter a physical space or a subject of study.",
+    "alternatives": [
+      "to enter a place or situation",
+      "to begin participating in something",
+      "to begin taking part in a new role"
+    ],
+    "concepts": "enter, begin, new role",
+    "opposites": "leave, exit",
+    "errors": []
+  },
+  {
+    "id": "BF-021",
+    "topic": "Beauty Filters",
+    "order": 21,
+    "term": "Well-known",
+    "es": "famoso",
+    "original": "It refers to a famous person.",
+    "alternatives": [
+      "famous or widely recognized",
+      "known by many people",
+      "widely recognized or famous"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-022",
+    "topic": "Beauty Filters",
+    "order": 22,
+    "term": "To reveal",
+    "es": "mostrar",
+    "original": "It's to show something.",
+    "alternatives": [
+      "to make something known",
+      "to show or disclose something",
+      "to uncover information that was hidden"
+    ],
+    "concepts": "show, disclose, make known",
+    "opposites": "hide, conceal",
+    "errors": [
+      "It's to hide something."
+    ]
+  },
+  {
+    "id": "BF-023",
+    "topic": "Beauty Filters",
+    "order": 23,
+    "term": "Shadow",
+    "es": "sombra",
+    "original": "It's the dark part of something.",
+    "alternatives": [
+      "a dark shape made when light is blocked",
+      "a dark area caused by an object blocking light",
+      "the dark area behind an object blocking light"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-024",
+    "topic": "Beauty Filters",
+    "order": 24,
+    "term": "Depth",
+    "es": "profundidad",
+    "original": "It's the distance between the top and the bottom.",
+    "alternatives": [
+      "the distance from the top to the bottom",
+      "how deep something is",
+      "the distance from the surface to the bottom"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-025",
+    "topic": "Beauty Filters",
+    "order": 25,
+    "term": "Timeless",
+    "es": "atemporal",
+    "original": "It's something out of step with the time.",
+    "alternatives": [
+      "not affected by changes in fashion or time",
+      "always attractive or relevant",
+      "not affected by changing fashions",
+      "remaining attractive or relevant over time"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-026",
+    "topic": "Beauty Filters",
+    "order": 26,
+    "term": "Artworks",
+    "es": "obras de arte",
+    "original": "It refers to things like paintings or sculptures made by artists.",
+    "alternatives": [
+      "pieces of art made by artists",
+      "paintings sculptures and other artistic creations",
+      "objects created as works of art"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-027",
+    "topic": "Beauty Filters",
+    "order": 27,
+    "term": "Heritage",
+    "es": "herencia",
+    "original": "The traditions and culture that come from the past.",
+    "alternatives": [
+      "traditions and culture passed down from earlier generations",
+      "cultural inheritance from the past",
+      "cultural traditions passed down from earlier generations",
+      "the history and culture inherited from the past"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-028",
+    "topic": "Beauty Filters",
+    "order": 28,
+    "term": "To remain",
+    "es": "permanecer",
+    "original": "It's to stay in the same place, group...",
+    "alternatives": [
+      "to stay in the same place or group",
+      "to continue to be in a particular place or state",
+      "to stay in a place or group",
+      "to continue to be there without leaving"
+    ],
+    "concepts": "stay, continue, same place, group",
+    "opposites": "leave, depart, go away",
+    "errors": []
+  },
+  {
+    "id": "BF-029",
+    "topic": "Beauty Filters",
+    "order": 29,
+    "term": "Coming-of-age",
+    "es": "adulto, antiguo",
+    "original": "It's when a person grows up to become an adult.",
+    "alternatives": [
+      "the process of becoming an adult",
+      "growing up and reaching adulthood",
+      "the process of growing into adulthood",
+      "about becoming mature and an adult"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-030",
+    "topic": "Beauty Filters",
+    "order": 30,
+    "term": "Phony",
+    "es": "falso",
+    "original": "It's something that is false.",
+    "alternatives": [
+      "fake or not genuine",
+      "something that is not real",
+      "not genuine or real",
+      "fake or pretending to be authentic"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-031",
+    "topic": "Beauty Filters",
+    "order": 31,
+    "term": "To set in",
+    "es": "desarrollarse",
+    "original": "It's when a story develops in a particular place.",
+    "alternatives": [
+      "for a story to take place in a particular setting",
+      "to be set in a place where the story develops",
+      "to take place in a particular setting",
+      "for a story to develop in a specific place"
+    ],
+    "concepts": "story, take place, develop, setting",
+    "opposites": "end, finish",
+    "errors": [
+      "It's when a story finishes."
+    ]
+  },
+  {
+    "id": "BF-032",
+    "topic": "Beauty Filters",
+    "order": 32,
+    "term": "Quest",
+    "es": "misión",
+    "original": "It's an important task that someone tries to complete.",
+    "alternatives": [
+      "a long search or important mission",
+      "an important journey or task",
+      "a long search for something important",
+      "a mission or difficult journey toward a goal"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-033",
+    "topic": "Beauty Filters",
+    "order": 33,
+    "term": "Unforgettable",
+    "es": "inolvidable",
+    "original": "It's something that you will always remember.",
+    "alternatives": [
+      "impossible to forget",
+      "something very memorable",
+      "so memorable that you always remember it"
+    ],
+    "concepts": "memorable, remember, cannot forget",
+    "opposites": "forgettable, easy to forget",
+    "errors": []
+  },
+  {
+    "id": "BF-034",
+    "topic": "Beauty Filters",
+    "order": 34,
+    "term": "Eccentric",
+    "es": "excéntrico",
+    "original": "It's someone who acts in a different way.",
+    "alternatives": [
+      "a person who behaves unusually",
+      "unconventional or unusual",
+      "behaving in an unusual way",
+      "a person with strange or unconventional habits"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-035",
+    "topic": "Beauty Filters",
+    "order": 35,
+    "term": "To be blamed",
+    "es": "ser culpado",
+    "original": "It's when someone says that you have done something bad.",
+    "alternatives": [
+      "to be held responsible for something bad",
+      "to be accused of causing a problem"
+    ],
+    "concepts": "accused, held responsible",
+    "opposites": "praised, absolved",
+    "errors": []
+  },
+  {
+    "id": "BF-036",
+    "topic": "Beauty Filters",
+    "order": 36,
+    "term": "Point of view",
+    "es": "punto de vista",
+    "original": "It's the way someone thinks about something.",
+    "alternatives": [
+      "a personal opinion or perspective",
+      "the way someone sees a situation",
+      "a person's opinion or perspective"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-037",
+    "topic": "Beauty Filters",
+    "order": 37,
+    "term": "Autistic",
+    "es": "autista",
+    "original": "It refers to a person whose brain works differently.",
+    "alternatives": [
+      "a person who is on the autism spectrum",
+      "relating to autism",
+      "relating to a person on the autism spectrum",
+      "describing someone who has autism"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-038",
+    "topic": "Beauty Filters",
+    "order": 38,
+    "term": "Moving",
+    "es": "sentimental, conmovedor",
+    "original": "It's something that makes you feel strong emotions.",
+    "alternatives": [
+      "emotionally touching",
+      "something that causes strong feelings",
+      "causing strong feelings or emotions",
+      "emotionally touching or affecting"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-039",
+    "topic": "Beauty Filters",
+    "order": 39,
+    "term": "Incapable",
+    "es": "incapaz",
+    "original": "It's when you are not able to do something.",
+    "alternatives": [
+      "unable to do something",
+      "not capable of doing something",
+      "not having the ability to perform a task"
+    ],
+    "concepts": "unable, not able, lack ability",
+    "opposites": "able, capable",
+    "errors": [
+      "It's when you are able to do something."
+    ]
+  },
+  {
+    "id": "BF-040",
+    "topic": "Beauty Filters",
+    "order": 40,
+    "term": "To imply",
+    "es": "implicar",
+    "original": "It's when you involve something into a situation or a problem.",
+    "alternatives": [
+      "to suggest something without saying it directly",
+      "to involve something as a consequence",
+      "to suggest something without stating it directly",
+      "to communicate an idea indirectly"
+    ],
+    "concepts": "suggest, indicate, indirectly",
+    "opposites": "say explicitly, state directly",
+    "errors": [
+      "It's to say something directly."
+    ]
+  },
+  {
+    "id": "BF-041",
+    "topic": "Beauty Filters",
+    "order": 41,
+    "term": "Excess",
+    "es": "exceso",
+    "original": "It's when there is more of something that you need.",
+    "alternatives": [
+      "more than is needed",
+      "an amount greater than necessary",
+      "more than what is necessary",
+      "an amount greater than what is needed"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-042",
+    "topic": "Beauty Filters",
+    "order": 42,
+    "term": "To obtain",
+    "es": "obtener",
+    "original": "It's to get something that you need.",
+    "alternatives": [
+      "to get or acquire something",
+      "to gain possession of something",
+      "to acquire or get something"
+    ],
+    "concepts": "get, acquire, receive",
+    "opposites": "lose, give away",
+    "errors": []
+  },
+  {
+    "id": "BF-043",
+    "topic": "Beauty Filters",
+    "order": 43,
+    "term": "Boredom",
+    "es": "aburrimiento",
+    "original": "It's the feeling you have when something is not interesting.",
+    "alternatives": [
+      "the feeling of being uninterested",
+      "feeling bored because nothing is interesting",
+      "the feeling of having nothing interesting to do",
+      "a state of being uninterested and bored"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "BF-044",
+    "topic": "Beauty Filters",
+    "order": 44,
+    "term": "To overload",
+    "es": "sobrecargar",
+    "original": "It's to give someone too much work.",
+    "alternatives": [
+      "to give someone more work than they can manage",
+      "to put too much weight or demand on something",
+      "to give too much work or responsibility",
+      "to put more on someone than they can manage"
+    ],
+    "concepts": "too much, excessive, work, burden",
+    "opposites": "reduce workload",
+    "errors": [
+      "It's to give someone less work."
+    ]
+  },
+  {
+    "id": "BF-045",
+    "topic": "Beauty Filters",
+    "order": 45,
+    "term": "Web-surfing",
+    "es": "navegar por la red",
+    "original": "It's when you visit different websites on the Internet.",
+    "alternatives": [
+      "browsing different websites online",
+      "moving from one website to another on the internet",
+      "moving from one website to another"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": [
+      "It's when you read a paper book."
+    ]
+  },
+  {
+    "id": "HV-001",
+    "topic": "Health & Vocabulary",
+    "order": 1,
+    "term": "Nutritious",
+    "es": "nutritivo",
+    "original": "it's something that is in the food and it's good for our body.",
+    "alternatives": [
+      "food that provides nutrients",
+      "good for your health and body",
+      "containing nutrients that help keep you healthy",
+      "providing nourishment that is good for the body"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-002",
+    "topic": "Health & Vocabulary",
+    "order": 2,
+    "term": "Various",
+    "es": "diversos",
+    "original": "there are different options for something.",
+    "alternatives": [
+      "several different kinds or options",
+      "more than one type of something",
+      "several different kinds of something",
+      "a range of different options"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-003",
+    "topic": "Health & Vocabulary",
+    "order": 3,
+    "term": "Comfortable",
+    "es": "cómodo",
+    "original": "it's when you stay good with something (like sleep).",
+    "alternatives": [
+      "making you feel relaxed and at ease",
+      "pleasant and physically relaxing",
+      "feeling relaxed and at ease",
+      "providing physical comfort without discomfort"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-004",
+    "topic": "Health & Vocabulary",
+    "order": 4,
+    "term": "Hygiene",
+    "es": "higiene",
+    "original": "it's when you are clean.",
+    "alternatives": [
+      "keeping yourself clean to stay healthy",
+      "practices that help prevent illness through cleanliness",
+      "habits that keep people clean and healthy",
+      "cleanliness practices that prevent illness"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-005",
+    "topic": "Health & Vocabulary",
+    "order": 5,
+    "term": "Environment",
+    "es": "medio ambiente",
+    "original": "it refers to all things that are surrounding people.",
+    "alternatives": [
+      "everything that surrounds living things",
+      "the natural world around us",
+      "the natural world around living things",
+      "the surroundings in which people and animals live"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-006",
+    "topic": "Health & Vocabulary",
+    "order": 6,
+    "term": "Well-being",
+    "es": "bienestar",
+    "original": "it's a state where you are mentally, physically, emotionally and socially well.",
+    "alternatives": [
+      "being healthy and feeling good",
+      "a state of physical and mental wellness",
+      "a person's overall health and happiness",
+      "being healthy physically and mentally"
+    ],
+    "concepts": "health, happiness, physical, mental",
+    "opposites": "illness, distress",
+    "errors": []
+  },
+  {
+    "id": "HV-007",
+    "topic": "Health & Vocabulary",
+    "order": 7,
+    "term": "Quest",
+    "es": "búsqueda",
+    "original": "it's a long search for something.",
+    "alternatives": [
+      "a long search for something important",
+      "a difficult journey or search",
+      "a mission or difficult journey toward a goal"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-008",
+    "topic": "Health & Vocabulary",
+    "order": 8,
+    "term": "Brisk",
+    "es": "vivaz, rápido",
+    "original": "it refers to something quick.",
+    "alternatives": [
+      "fast and energetic",
+      "quick and lively",
+      "quick and energetic",
+      "moving at a fast, lively pace"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-009",
+    "topic": "Health & Vocabulary",
+    "order": 9,
+    "term": "Energizing",
+    "es": "que da energía",
+    "original": "it's something that gives energy.",
+    "alternatives": [
+      "making you feel more energetic",
+      "giving someone energy",
+      "making you feel more awake and active",
+      "giving someone extra energy"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-010",
+    "topic": "Health & Vocabulary",
+    "order": 10,
+    "term": "Beverages",
+    "es": "bebidas",
+    "original": "it refers to all drinks.",
+    "alternatives": [
+      "drinks of any kind",
+      "liquids that people drink",
+      "drinks such as water, juice or tea"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-011",
+    "topic": "Health & Vocabulary",
+    "order": 11,
+    "term": "Swap",
+    "es": "intercambio",
+    "original": "it refers to change one thing for another.",
+    "alternatives": [
+      "to exchange one thing for another",
+      "to replace one thing with something else",
+      "to trade or replace things"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-012",
+    "topic": "Health & Vocabulary",
+    "order": 12,
+    "term": "Overlooked",
+    "es": "pasado por alto",
+    "original": "it's something that was ignored.",
+    "alternatives": [
+      "not noticed or considered",
+      "ignored or missed",
+      "missed or ignored by someone"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-013",
+    "topic": "Health & Vocabulary",
+    "order": 13,
+    "term": "Accomplished",
+    "es": "logrado",
+    "original": "it's something that is completed successfully.",
+    "alternatives": [
+      "successfully completed",
+      "achieved or carried out",
+      "successfully finished or achieved",
+      "completed with success"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-014",
+    "topic": "Health & Vocabulary",
+    "order": 14,
+    "term": "Hesitate",
+    "es": "dudar",
+    "original": "it's stop before doing something because you are not sure.",
+    "alternatives": [
+      "to pause because you are uncertain",
+      "to delay doing something because of doubt",
+      "to delay acting due to doubt"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-015",
+    "topic": "Health & Vocabulary",
+    "order": 15,
+    "term": "Pare",
+    "es": "pavimentar",
+    "original": "it's to cover a road with stone or asphalt",
+    "alternatives": [
+      "to cover a road with asphalt or stone",
+      "to pave a road with a hard surface",
+      "to remove the outer skin of fruit or vegetables",
+      "to peel or trim the surface with a knife"
+    ],
+    "concepts": "peel, skin, trim, fruit",
+    "opposites": "pave, road, asphalt",
+    "errors": []
+  },
+  {
+    "id": "HV-016",
+    "topic": "Health & Vocabulary",
+    "order": 16,
+    "term": "Mental health",
+    "es": "salud mental",
+    "original": "it's how well-being a person is.",
+    "alternatives": [
+      "emotional and psychological well-being",
+      "how well someone feels and functions mentally",
+      "a person's psychological and emotional condition",
+      "how well someone copes mentally and emotionally"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-017",
+    "topic": "Health & Vocabulary",
+    "order": 17,
+    "term": "Deal",
+    "es": "acuerdo",
+    "original": "it's when you reach an agreement with someone.",
+    "alternatives": [
+      "an agreement between people",
+      "an arrangement agreed by two parties",
+      "an agreement between two or more people",
+      "an arrangement reached by negotiation"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-018",
+    "topic": "Health & Vocabulary",
+    "order": 18,
+    "term": "Allow",
+    "es": "permitir",
+    "original": "it's when you have permission to do something",
+    "alternatives": [
+      "to give permission to do something",
+      "to permit someone to do something",
+      "to give permission for something",
+      "to let someone do something"
+    ],
+    "concepts": "permit, let, give permission",
+    "opposites": "forbid, prohibit",
+    "errors": [
+      "It's to forbid someone from doing something."
+    ]
+  },
+  {
+    "id": "HV-019",
+    "topic": "Health & Vocabulary",
+    "order": 19,
+    "term": "As long as",
+    "es": "mientras",
+    "original": "it refers to something that happens over a period time.",
+    "alternatives": [
+      "during the whole time that something happens",
+      "provided that a condition is met"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-020",
+    "topic": "Health & Vocabulary",
+    "order": 20,
+    "term": "Find out",
+    "es": "descubrir",
+    "original": "it's to discover something.",
+    "alternatives": [
+      "to discover or learn information",
+      "to get to know something previously unknown",
+      "to discover information",
+      "to learn something you did not know"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-021",
+    "topic": "Health & Vocabulary",
+    "order": 21,
+    "term": "Overwhelming",
+    "es": "abrumador, agobiante",
+    "original": "it's when someone press someone to its limits.",
+    "alternatives": [
+      "too intense or difficult to manage",
+      "making someone feel unable to cope",
+      "causing someone to feel unable to cope"
+    ],
+    "concepts": "too much, intense, unable to cope",
+    "opposites": "easy to handle",
+    "errors": []
+  },
+  {
+    "id": "HV-022",
+    "topic": "Health & Vocabulary",
+    "order": 22,
+    "term": "Breakdown",
+    "es": "crisis nerviosa",
+    "original": "it refers to exceed your limits with problems.",
+    "alternatives": [
+      "an emotional crisis caused by stress",
+      "a moment when someone cannot cope",
+      "a loss of ability to cope with emotional stress",
+      "a serious emotional crisis"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-023",
+    "topic": "Health & Vocabulary",
+    "order": 23,
+    "term": "Insight",
+    "es": "percepción, conocimiento",
+    "original": "it's how you interpret a situation.",
+    "alternatives": [
+      "a deep understanding of something",
+      "a clear perception of a situation",
+      "a clear and deep understanding",
+      "the ability to see the meaning of a situation"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-024",
+    "topic": "Health & Vocabulary",
+    "order": 24,
+    "term": "Shortness",
+    "es": "falta de",
+    "original": "it refers to the absence of something.",
+    "alternatives": [
+      "a lack or shortage of something",
+      "not having enough of something",
+      "a lack or insufficient amount of something"
+    ],
+    "concepts": "lack, insufficient, not enough",
+    "opposites": "abundance, excess",
+    "errors": []
+  },
+  {
+    "id": "HV-025",
+    "topic": "Health & Vocabulary",
+    "order": 25,
+    "term": "Statewide",
+    "es": "a nivel estatal",
+    "original": "it's something that applies to all the state.",
+    "alternatives": [
+      "across an entire state",
+      "affecting the whole state",
+      "affecting all parts of a state"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-026",
+    "topic": "Health & Vocabulary",
+    "order": 26,
+    "term": "Astounding",
+    "es": "sorprendente, asombroso",
+    "original": "it's something that surprises you.",
+    "alternatives": [
+      "extremely surprising",
+      "very impressive or amazing",
+      "so amazing that it is hard to believe"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-027",
+    "topic": "Health & Vocabulary",
+    "order": 27,
+    "term": "Lobbyist",
+    "es": "miembro de un grupo que influye en leyes",
+    "original": "it's someone that influences in laws, government.",
+    "alternatives": [
+      "a person who tries to influence government decisions",
+      "someone who advocates for a group to lawmakers",
+      "someone who tries to influence political decisions",
+      "a person who campaigns to influence lawmakers"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": [
+      "It's something ordinary and conventional."
+    ]
+  },
+  {
+    "id": "HV-028",
+    "topic": "Health & Vocabulary",
+    "order": 28,
+    "term": "Groundbreaking",
+    "es": "innovador",
+    "original": "it's something new and different",
+    "alternatives": [
+      "new and innovative",
+      "introducing important new ideas or methods",
+      "introducing an important new idea",
+      "innovative and different from what came before"
+    ],
+    "concepts": "new, innovative, important change",
+    "opposites": "ordinary, conventional",
+    "errors": []
+  },
+  {
+    "id": "HV-029",
+    "topic": "Health & Vocabulary",
+    "order": 29,
+    "term": "Struggle",
+    "es": "tener dificultad en",
+    "original": "it refers to have difficulties to do something.",
+    "alternatives": [
+      "to have difficulty doing something",
+      "to try hard to do something difficult",
+      "to have difficulty achieving something",
+      "to make a great effort against a problem"
+    ],
+    "concepts": "difficulty, effort, problem",
+    "opposites": "easy, effortless",
+    "errors": []
+  },
+  {
+    "id": "HV-030",
+    "topic": "Health & Vocabulary",
+    "order": 30,
+    "term": "Step forward",
+    "es": "dar un paso al frente, ofrecerse",
+    "original": "it's to offer your help to do something",
+    "alternatives": [
+      "to volunteer to help",
+      "to offer to take responsibility for something",
+      "to volunteer to help or take responsibility",
+      "to come forward and offer assistance"
+    ],
+    "concepts": "",
+    "opposites": "",
+    "errors": []
+  },
+  {
+    "id": "HV-031",
+    "topic": "Health & Vocabulary",
+    "order": 31,
+    "term": "Deserve",
+    "es": "merecer",
+    "original": "it's to have something because of your actions.",
+    "alternatives": [
+      "to be worthy of something",
+      "to have earned something through your actions",
+      "to be worthy of something because of your actions",
+      "to have earned something through what you did"
+    ],
+    "concepts": "earn, worthy, actions",
+    "opposites": "unearned, undeserved",
+    "errors": []
+  },
+  {
+    "id": "HV-032",
+    "topic": "Health & Vocabulary",
+    "order": 32,
+    "term": "Empathy",
+    "es": "empatía",
+    "original": "it's the ability to understand other people's feelings and problems.",
+    "alternatives": [
+      "the ability to understand how others feel",
+      "understanding and sharing another person’s feelings",
+      "understanding another person's feelings",
+      "the ability to put yourself in someone else's position"
+    ],
+    "concepts": "understand, feelings, another person",
+    "opposites": "ignore feelings",
+    "errors": []
+  },
+  {
+    "id": "HV-033",
+    "topic": "Health & Vocabulary",
+    "order": 33,
+    "term": "Sympathy",
+    "es": "compasión, lástima",
+    "original": "it refers to an affective feeling to others.",
+    "alternatives": [
+      "feeling sorry for someone’s difficulties",
+      "compassion for someone who is suffering",
+      "feeling compassion for another person's suffering",
+      "caring about someone else's difficulties"
+    ],
+    "concepts": "compassion, concern, sadness, other person",
+    "opposites": "indifference",
+    "errors": []
+  }
+]
